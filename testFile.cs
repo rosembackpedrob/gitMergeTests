@@ -13,7 +13,7 @@ public class testFile()
 
 	public void DoNothing()
 	{
-
+		vida = 2;
 	}
 }
 
